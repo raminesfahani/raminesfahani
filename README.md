@@ -44,7 +44,6 @@ A **document ingestion SDK** for RAG systems, with intelligent chunking, metadat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raminesfahani&show_icons=true&theme=dark&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raminesfahani&theme=dark&hide_border=true" height="180em"/>
 </p>
 
 ---
