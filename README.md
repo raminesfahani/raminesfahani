@@ -14,7 +14,7 @@ I’m passionate about building scalable systems, designing modern SDKs, and cre
 
 ### 🚀 Featured Projects
 
-#### 📄 [SemanticDocumentIngestor](https://github.com/raminesfahani/SemanticDocumentIngestor)
+#### 📄 [SemanticDocumentIngestor](https://github.com/raminesfahani/SemanticDocIngestor)
 A **document ingestion SDK** for RAG systems, with intelligent chunking, metadata enrichment, token-aware splitting, and integration with ElasticSearch and Qdrant.
 
 #### 🧩 [Netrilo Infrastructure](https://github.com/raminesfahani/Netrilo_Infrastructure)
