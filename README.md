@@ -14,14 +14,14 @@ I’m passionate about building scalable systems, designing modern SDKs, and cre
 
 ### 🚀 Featured Projects
 
+#### 📄 [SemanticDocumentIngestor](https://github.com/raminesfahani/SemanticDocumentIngestor)
+A **document ingestion SDK** for RAG systems, with intelligent chunking, metadata enrichment, token-aware splitting, and integration with ElasticSearch and Qdrant.
+
 #### 🧩 [Netrilo Infrastructure](https://github.com/raminesfahani/Netrilo_Infrastructure)
 A **modular .NET SDK** for building modern applications faster — includes dependency injection, configuration, logging, and middleware extensions optimized for .NET Aspire.
 
 #### 🧠 [LangMate SDK](https://github.com/raminesfahani/LangMate)
 An **AI-native SDK** integrating OpenAI, Ollama, and other providers into a unified abstraction layer. Supports hybrid RAG, semantic search, and document processing for intelligent apps.
-
-#### 📄 [SemanticDocumentIngestor](https://github.com/raminesfahani/SemanticDocumentIngestor)
-A **document ingestion SDK** for RAG systems, with intelligent chunking, metadata enrichment, token-aware splitting, and integration with ElasticSearch or Qdrant.
 
 ---
 
@@ -58,5 +58,5 @@ A **document ingestion SDK** for RAG systems, with intelligent chunking, metadat
 ---
 
 <p align="center">
-  <i>“Building smarter, scalable, and cleaner software — one SDK at a time.”</i>
+  <i>“Think big, Do it small.”</i>
 </p>
