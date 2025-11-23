@@ -23,7 +23,7 @@ A **modular .NET SDK** for building modern applications faster — includes depe
 #### 🧠 [LangMate SDK](https://github.com/raminesfahani/LangMate)
 An **AI-native SDK** integrating OpenAI, Ollama, and other providers into a unified abstraction layer. Supports hybrid RAG, semantic search, and document processing for intelligent apps.
 
-#### 🧠 [Real-time Collaborative Blazor Whiteboard](https://github.com/raminesfahani/BlazorWhiteBoard)
+#### 🖌️ [Real-time Collaborative Blazor Whiteboard](https://github.com/raminesfahani/BlazorWhiteBoard)
 A real-time collaborative whiteboard application built with Blazor Server and SignalR. Draw, sketch, and collaborate with multiple users simultaneously with live cursor tracking, shape previews, and instant synchronization.
 
 ---
